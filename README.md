@@ -20,3 +20,7 @@ Any legal advice given in these slides must not be taken (in any way) as actual 
 I declare myself fully exempt of responsibility of any harm you suffer or cause by following any of the suggestion or ideas contained in any of these talks.
 
 Any image that appears here is used without the permission of the author but in a fair use way because I don’t make any profit of this. However, if you don’t want your pictures or photos in one of the talk slides, please, contact me by email at diego-j_romero-l-opez__at_g-mail.com (remove the - and _ and replace at with @). I will remove them as soon as possible.
+
+## License
+
+As I said earlier. All the graphical content is property of their authors (used on the premise of fair-use). Any other content is **public domain** you can do it whatever you want with it.
